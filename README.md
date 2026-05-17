@@ -1,13 +1,13 @@
 # cave_diver_game
 
-# Description
+## Description
 A remake of the Pico-8 cave diver game that was made for Fall 2023 semester at SMCM.
 
-# Goal
+## Goal
 To show advancement.
 
-# How to Run
+## How to Run
 TBA
 
-# Contributors
+## Contributors
 Isabella Stephens
