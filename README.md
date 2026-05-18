@@ -4,7 +4,7 @@
 A remake of the Pico-8 cave diver game that was made for Fall 2023 semester at SMCM.
 
 ## Goal
-To show advancement.
+To show advancement in programming skills.
 
 ## How to Run
 TBA
