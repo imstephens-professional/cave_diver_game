@@ -1,23 +1,30 @@
-# Cave Diver: Game Design Document
+# "Diver: Delving in the Deep": Game Design Document
 
 <details>
 <summary>Revision History</summary>
   
 | Date | Version | Description | Author(s) |
-| -------- | :------: | -------- | -------- |
+| -------- | :------: | :--------: | -------- |
 | 18 May 2026 | 0.1 | Initial Draft | Isabella Stephens |
+| 20 May 2026 | 0.2 | ADDED information to High Level Concept and Product Design sections. | Isabella Stephens |
 
 </details>
 
 ## 1. High Level Concept
 ### 1.1 Working Title
-*Your game’s title should communicate the gameplay and the style of the game*
+The title of the game is "Diver: Delving in the Deep". 
+
 ### 1.2 Concept Statement
 *The game in a tweet: one or two sentences at most that say what the game is and why it’s fun.*
+
+"Diver: Delving in the Deep" is a //
+
 ### 1.3 Genre
-*Single genre is clearer but often less interesting. Genre combinations can be risky. Beware of ‘tired’ genres.*
+"Diver: Delving in the Deep" is a platformer with exploration and horror elements.
+
 ### 1.4 Target Audience
-*Motivations and relevant interests; potentially age, gender, etc.; and the desired ESRB rating for the game.*
+The target audience is anyone ages 8 and up who have previous experience with games. The desired ESRB rating for the game is E.
+
 ### 1.5 Unique Selling Points
 *Critically important. What makes your game stand out? How is it different from all other games?*
 
@@ -31,10 +38,13 @@ concept art or reference art can you show to give the feel of the game?*
 ### 2.3 Game World Fiction
 *Briefly describe the game world and any narrative in player-relevant terms (as presented to the player).*
 ### 2.4 Monetization
-*How will the game make money? Premium purchase? F2P? How do you justify this within the design?*
+The game will not be monetized. This game will be developed to show the programming experience of the developer. 
+
 ### 2.5 Platforms, Technology, & Scope
 *PC or mobile? Table or phone? 2D or 3D? Unity or Javascript? How long to make, and how big a team?
 How long to first-playable? How long to complete the game? Major risks?*
+
+"Diver: Delving in the Deep" will be a 2D PC game. 
 
 ## 3. Game System Design
 ### 3.1 Core Loops
