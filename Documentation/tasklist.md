@@ -13,8 +13,10 @@
 * Grappling Hook (Mapped onto Z key; pulls Player to a location when launched)
 
 ## 2. Fine-Tune Core Game Mechanics & Additional Mechanics
+* Dark Mask on level; only clear around Player and fixed light sources
 * Double Jump only allowed after touching a certain item
 * Respawn Spots
+* Enemy AI
 * Assign stock sounds to Movement (Walk Left/Right, Crouch, Jump, Ice Wall Attach + Detach, Grappling Hook Launch + Attach, Hurt)
 
 ## 3. Outline Levels, Win Conditions, & Lose Conditions
