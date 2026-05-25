@@ -8,7 +8,7 @@
 | 18 May 2026 | 0.1 | Initial Draft | Isabella Stephens |
 | 20 May 2026 | 0.1 | ADDED information to High Level Concept and Product Design sections. | Isabella Stephens |
 | 23 May 2026 | 0.1 | ADDED information to High Level Concept and Product Design sections. | Isabella Stephens |
-| 24 May 2026 | 0.1 | MOVED document to Documentation Folder. | Isabella Stephens |
+| 24 May 2026 | 0.1 | MOVED document to Documentation Folder. ADDED information to High Level Concept. | Isabella Stephens |
 
 </details>
 
@@ -17,9 +17,7 @@
 The title of the game is "Diver: Delving in the Deep". 
 
 ### 1.2 Concept Statement
-*The game in a tweet: one or two sentences at most that say what the game is and why it’s fun.*
-
-"Diver: Delving in the Deep" is a //
+"Diver: Delving in the Deep" is an eerie platformer that guides you deeper and deeper into a cave full of mysteries. 
 
 ### 1.3 Genre
 "Diver: Delving in the Deep" is a platformer with exploration and horror elements.
@@ -29,6 +27,7 @@ The target audience is anyone ages 8 and up who have previous experience with ga
 
 ### 1.5 Unique Selling Points
 *Critically important. What makes your game stand out? How is it different from all other games?*
+"Diver: Delving in the Deep" is 
 
 ## 2. Product Design
 ### 2.1 Player Experience & Game POV
